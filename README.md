@@ -18,6 +18,7 @@
 ```sh
 git clone git@github.com:sMayWhatIsYourName2020/test-syntellect.git
 cd test-syntellect
+npm install
 ```
 
 ## 🧤 Использование
