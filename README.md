@@ -24,9 +24,9 @@ cd test-syntellect
 ### В корневой директории вы можете:
 ### Протестировать код.
 ```sh
-`npm run test`
+npm run test
 ```
 ### Посмотреть покрытие кода тестами.
 ```sh
-`npm run test-coverage`
+npm run test-coverage
 ```
