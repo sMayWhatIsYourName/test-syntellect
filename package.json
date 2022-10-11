@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest",
+    "test-coverage": "npx jest --coverage"
+  },
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
